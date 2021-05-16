@@ -1,0 +1,11 @@
+.mypresta_scrollup{
+    width:40px;
+    height:40px;
+    position:fixed;
+    display:none;
+    text-indent:-9999px;
+	right:20px;
+	bottom:20px;
+
+}
+.mypresta_scrollup:hover {background-color: #474747;}

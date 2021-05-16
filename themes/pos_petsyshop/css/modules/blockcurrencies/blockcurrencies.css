@@ -1,0 +1,57 @@
+/* block top currencies */
+#header_right #currencies_block_top {
+	float:right;
+	margin: 18px 6px 0 0;
+	padding-right: 5px;
+	background: none repeat scroll 0 0 #fff;
+	border: 1px solid #ccc;
+}
+#header_right #currencies_block_top p {
+	clear: left;
+	padding:5px 26px 6px 6px;
+	font: 12px/15px Arial,Verdana,sans-serif;
+	color: #2f2f2f;
+	text-align: right;
+	background: url("img/block_languages_top_p_bg.png") no-repeat scroll right 8px transparent;
+}
+#currencies_block_top ul#first-currencies li {
+	margin-right: 3px
+}
+#currencies_block_top ul#first-currencies li.selected {
+	opacity: 1 !important;
+}
+/*languages with jquery*/
+#setCurrency {
+	cursor: pointer;
+	position: relative;
+	top: 1px;
+}
+#setCurrency p {
+	position: relative;
+	top: 0;
+	margin-left: 5px;
+	padding: 0;
+}
+#setCurrency p img {
+	padding-left: 5px;
+}
+#setCurrency .currencies_ul{
+	display:none;
+	z-index: 10000;
+	padding:10px;
+	list-style-type:none;
+}
+#setCurrency .currencies_ul_hover{
+	display: block;
+	z-index: 5000;
+	position: absolute;
+	right: -6px;
+	padding: 5px 10px;
+	height: auto;
+	text-align: center;
+	width: 29px;
+	background: #fff;
+	border: 1px solid #ccc;
+	top: 25px;
+}
+#setCurrency .currencies_ul_hover a {color:#2f2f2f;}

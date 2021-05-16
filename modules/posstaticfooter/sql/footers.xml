@@ -1,0 +1,532 @@
+<pos_static_blocks>
+<!-- static block configuration -->
+	<block>
+		<id_posstaticblock>3</id_posstaticblock>
+		<identify>footer-static-col1</identify>
+		<hook_position>blockFooter1</hook_position>
+		<name_module></name_module>
+		<hook_module></hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+		<is_default>1</is_default>
+	</block>
+	<block>
+		<id_posstaticblock>4</id_posstaticblock>
+		<identify>footer-static-col2</identify>
+		<hook_position>blockFooter1</hook_position>
+		<name_module>blocknewsletter</name_module>
+		<hook_module>displayFooter</hook_module>
+		<posorder>0</posorder>
+		<insert_module>1</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+		<is_default>1</is_default>
+	</block>
+	<block>
+		<id_posstaticblock>5</id_posstaticblock>
+		<identify>footer-static-col3</identify>
+		<hook_position>blockFooter1</hook_position>
+		<name_module></name_module>
+		<hook_module></hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+		<is_default>1</is_default>
+	</block>
+	<block>
+		<id_posstaticblock>6</id_posstaticblock>
+		<identify>footer-static-col4</identify>
+		<hook_position>blockFooter1</hook_position>
+		<name_module></name_module>
+		<hook_module></hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+		<is_default>1</is_default>
+	</block>
+	<block>
+		<id_posstaticblock>7</id_posstaticblock>
+		<identify>footer-address</identify>
+		<hook_position>blockFooter2</hook_position>
+		<name_module></name_module>
+		<hook_module></hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+		<is_default>1</is_default>
+	</block>
+	<block>
+		<id_posstaticblock>8</id_posstaticblock>
+		<identify>payment</identify>
+		<hook_position>blockFooter2</hook_position>
+		<name_module></name_module>
+		<hook_module></hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+		<is_default>1</is_default>
+	</block>
+
+	<block>
+		<id_posstaticblock>9</id_posstaticblock>
+		<identify>follow-me-on</identify>
+		<hook_position>blockFooter3</hook_position>
+		<name_module></name_module>
+		<hook_module></hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+		<is_default>1</is_default>
+	</block>
+
+	<block>
+		<id_posstaticblock>10</id_posstaticblock>
+		<identify>footer-static-center-col1</identify>
+		<hook_position>displayFooter</hook_position>
+		<name_module>blockcms</name_module>
+		<hook_module>displayFooter</hook_module>
+		<posorder>0</posorder>
+		<insert_module>1</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+		<is_default>1</is_default>
+	</block>
+
+	<block>
+		<id_posstaticblock>11</id_posstaticblock>
+		<identify>footer-static-center-col2</identify>
+		<hook_position>displayFooter</hook_position>
+		<name_module></name_module>
+		<hook_module></hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+		<is_default>1</is_default>
+	</block>
+
+	<block>
+		<id_posstaticblock>12</id_posstaticblock>
+		<identify>footer-static-center-col3</identify>
+		<hook_position>displayFooter</hook_position>
+		<name_module></name_module>
+		<hook_module></hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+		<is_default>1</is_default>
+	</block>
+
+	<block>
+		<id_posstaticblock>13</id_posstaticblock>
+		<identify>footer-static-center-col4</identify>
+		<hook_position>displayFooter</hook_position>
+		<name_module>blockmyaccountfooter</name_module>
+		<hook_module>displayFooter</hook_module>
+		<posorder>0</posorder>
+		<insert_module>1</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+		<is_default>1</is_default>
+	</block>
+
+<!-- block language configuration -->	
+
+	<block_language>
+		<id_posstaticblock>3</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Footer Static Col1</title>
+		<description>
+			<![CDATA[
+				<div class="f-col1 span3"><a href="#"><img src="/pos_petsyshop/img/cms/responsivetest.png" alt="" /> </a>
+				<h2 class="f-col-title">Responsivetest Web</h2>
+				<p class="f-col-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In congue, justo non cursus adipiscing, dui nibh scelerisque justo, quis pretium.</p>
+				</div>
+			]]>
+		</description>
+	</block_language>
+
+	<block_language>
+		<id_posstaticblock>4</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Footer Static Col2</title>
+		<description>
+			<![CDATA[
+				
+			]]>
+		</description>
+	</block_language>
+
+	<block_language>
+		<id_posstaticblock>5</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Footer Static Col3</title>
+		<description>
+			 <![CDATA[
+				<div class="f-col f-col3 span3">
+				<h2 class="f-col-title">About Us</h2>
+				<p class="f-col-content">Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type.</p>
+				<ul>
+				<li class="address">Parcel Zoom 287 Cheesequake Road, Bldg 1B Parlin, NJ 08859</li>
+				<li class="phone">(+123) 3536 456</li>
+				<li class="email">demo@posthemes.com</li>
+				</ul>
+				</div>
+			]]>
+		</description>
+	</block_language>
+
+	<block_language>
+		<id_posstaticblock>6</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Footer Static Col4</title>
+		<description>
+			 <![CDATA[
+				<div class="f-col f-col4 span3">
+				<h2 class="f-col-title">Map</h2>
+				<a href="#"><img src="/pos_petsyshop/img/cms/map.jpg" alt="" /></a></div>
+			]]>
+		</description>
+	</block_language>
+
+	<block_language>
+		<id_posstaticblock>7</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Footer Address</title>
+		<description>
+			 <![CDATA[
+				<div class="footer-address span6">
+				<p>© 2013 Prestashop Themes by <a href="http://posthemes.com">Posthemes</a>. All Rights Reserved.</p>
+				</div>
+			]]>
+		</description>
+	</block_language>
+
+	<block_language>
+		<id_posstaticblock>8</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Payment</title>
+		<description>
+			 <![CDATA[
+				<ul class="payment span6">
+					<li class="first"><a href="#"><img src="/pos_petsyshop/img/cms/payment1.png" alt=""/></a></li>
+					<li><a href="#"><img src="/pos_petsyshop/img/cms/payment2.png" alt=""/></a></li>
+					<li><a href="#"> <img src="/pos_petsyshop/img/cms/payment3.png" alt=""/></a></li>
+					<li class="last"><a href="#"><img src="/pos_petsyshop/img/cms/payment4.png" alt=""/> </a></li>
+				</ul>
+			]]>
+		</description>
+	</block_language>
+
+	<block_language>
+		<id_posstaticblock>9</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Follow Me On</title>
+		<description>
+			 <![CDATA[
+				<div class="f-col2-row1">
+					<h2 class="f-col-title">FOLLOW ME ON</h2>
+					<ul>
+						<li><a href="#"><img src="/pos_petsyshop/img/cms/face.png" alt="" /> </a></li>
+						<li><a href="#"><img src="/pos_petsyshop/img/cms/twitter.png" alt="" /> </a></li>
+						<li><a href="#"><img src="/pos_petsyshop/img/cms/google.png" alt="" /> </a></li>
+						<li><a href="#"><img src="/pos_petsyshop/img/cms/p.png" alt="" /> </a></li>
+						<li><a href="#"><img src="/pos_petsyshop/img/cms/two_point.png" alt="" /> </a></li>
+					</ul>
+				</div>
+			]]>
+		</description>
+	</block_language>
+
+	<block_language>
+		<id_posstaticblock>10</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Footer Static Center Col1</title>
+		<description>
+			 <![CDATA[
+				
+			]]>
+		</description>
+	</block_language>
+
+	<block_language>
+		<id_posstaticblock>11</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Footer Static Center Col2</title>
+		<description>
+			 <![CDATA[
+				<div class="f-center-col2 span3">
+				<h2 class="f-col-title">CUSTOMER SERVICE</h2>
+				<ul>
+				<li><a href="#">Delivery Information</a></li>
+				<li><a href="#">Privacy Policy</a></li>
+				<li><a href="?controller=my-account">Your Account</a></li>
+				<li><a href="#">Delivery</a></li>
+				<li><a href="#">Terms &amp; Condition</a></li>
+				<li><a href="?controller=contact">Contact Us</a></li>
+				</ul>
+				</div>
+			]]>
+		</description>
+	</block_language>
+
+	<block_language>
+		<id_posstaticblock>12</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Footer Static Center Col3</title>
+		<description>
+			 <![CDATA[
+				<div class="f-center-col3 span3">
+				<h2 class="f-col-title">Extras</h2>
+				<ul>
+				<li><a href="?controller=my-account">My Account</a></li>
+				<li><a href="?mylogout=">Logout</a></li>
+				<li><a href="?fc=module&amp;module=blockwishlist&amp;controller=mywishlist&amp;id_lang=1">Wishlist</a></li>
+				<li><a href="?controller=order">My Cart</a></li>
+				<li><a href="?controller=order">Checkout</a></li>
+				<li><a href="?controller=my-account">Login</a></li>
+				</ul>
+				</div>
+			]]>
+		</description>
+	</block_language>
+
+	<block_language>
+		<id_posstaticblock>13</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Footer Static Center Col4</title>
+		<description>
+			 <![CDATA[
+				
+			]]>
+		</description>
+	</block_language>
+
+
+	<!-- lang_2 -->
+
+	<block_language>
+		<id_posstaticblock>3</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Footer Static Col1</title>
+		<description>
+			<![CDATA[
+				<div class="f-col1 span3"><a href="#"><img src="/pos_petsyshop/img/cms/responsivetest.png" alt="" /> </a>
+				<h2 class="f-col-title">Responsivetest Web</h2>
+				<p class="f-col-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In congue, justo non cursus adipiscing, dui nibh scelerisque justo, quis pretium.</p>
+				</div>
+			]]>
+		</description>
+	</block_language>
+
+	<block_language>
+		<id_posstaticblock>4</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Footer Static Col2</title>
+		<description>
+			<![CDATA[
+				
+			]]>
+		</description>
+	</block_language>
+
+	<block_language>
+		<id_posstaticblock>5</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Footer Static Col3</title>
+		<description>
+			 <![CDATA[
+				<div class="f-col f-col3 span3">
+				<h2 class="f-col-title">About Us</h2>
+				<p class="f-col-content">Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type.</p>
+				<ul>
+				<li class="address">Parcel Zoom 287 Cheesequake Road, Bldg 1B Parlin, NJ 08859</li>
+				<li class="phone">(+123) 3536 456</li>
+				<li class="email">demo@posthemes.com</li>
+				</ul>
+				</div>
+			]]>
+		</description>
+	</block_language>
+
+	<block_language>
+		<id_posstaticblock>6</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Footer Static Col4</title>
+		<description>
+			 <![CDATA[
+				<div class="f-col f-col4 span3">
+				<h2 class="f-col-title">Map</h2>
+				<a href="#"><img src="/pos_petsyshop/img/cms/map.jpg" alt="" /></a></div>
+			]]>
+		</description>
+	</block_language>
+
+	<block_language>
+		<id_posstaticblock>7</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Footer Address</title>
+		<description>
+			 <![CDATA[
+				<div class="footer-address span6">
+				<p>© 2013 Prestashop Themes by <a href="http://posthemes.com">Posthemes</a>. All Rights Reserved.</p>
+				</div>
+			]]>
+		</description>
+	</block_language>
+
+	<block_language>
+		<id_posstaticblock>8</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Payment</title>
+		<description>
+			 <![CDATA[
+				<ul class="payment span6">
+					<li class="first"><a href="#"><img src="/pos_petsyshop/img/cms/payment1.png" alt=""/></a></li>
+					<li><a href="#"><img src="/pos_petsyshop/img/cms/payment2.png" alt=""/></a></li>
+					<li><a href="#"> <img src="/pos_petsyshop/img/cms/payment3.png" alt=""/></a></li>
+					<li class="last"><a href="#"><img src="/pos_petsyshop/img/cms/payment4.png" alt=""/> </a></li>
+				</ul>
+			]]>
+		</description>
+	</block_language>
+
+	<block_language>
+		<id_posstaticblock>9</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Follow Me On</title>
+		<description>
+			 <![CDATA[
+				<div class="f-col2-row1">
+					<h2 class="f-col-title">FOLLOW ME ON</h2>
+					<ul>
+						<li><a href="#"><img src="/pos_petsyshop/img/cms/face.png" alt="" /> </a></li>
+						<li><a href="#"><img src="/pos_petsyshop/img/cms/twitter.png" alt="" /> </a></li>
+						<li><a href="#"><img src="/pos_petsyshop/img/cms/google.png" alt="" /> </a></li>
+						<li><a href="#"><img src="/pos_petsyshop/img/cms/p.png" alt="" /> </a></li>
+						<li><a href="#"><img src="/pos_petsyshop/img/cms/two_point.png" alt="" /> </a></li>
+					</ul>
+				</div>
+			]]>
+		</description>
+	</block_language>
+
+	<block_language>
+		<id_posstaticblock>10</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Footer Static Center Col1</title>
+		<description>
+			 <![CDATA[
+				
+			]]>
+		</description>
+	</block_language>
+
+	<block_language>
+		<id_posstaticblock>11</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Footer Static Center Col2</title>
+		<description>
+			 <![CDATA[
+				<div class="f-center-col2 span3">
+				<h2 class="f-col-title">CUSTOMER SERVICE</h2>
+				<ul>
+				<li><a href="#">Delivery Information</a></li>
+				<li><a href="#">Privacy Policy</a></li>
+				<li><a href="?controller=my-account">Your Account</a></li>
+				<li><a href="#">Delivery</a></li>
+				<li><a href="#">Terms &amp; Condition</a></li>
+				<li><a href="?controller=contact">Contact Us</a></li>
+				</ul>
+				</div>
+			]]>
+		</description>
+	</block_language>
+
+	<block_language>
+		<id_posstaticblock>12</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Footer Static Center Col3</title>
+		<description>
+			 <![CDATA[
+				<div class="f-center-col3 span3">
+				<h2 class="f-col-title">Extras</h2>
+				<ul>
+				<li><a href="?controller=my-account">My Account</a></li>
+				<li><a href="?mylogout=">Logout</a></li>
+				<li><a href="?fc=module&amp;module=blockwishlist&amp;controller=mywishlist&amp;id_lang=1">Wishlist</a></li>
+				<li><a href="?controller=order">My Cart</a></li>
+				<li><a href="?controller=order">Checkout</a></li>
+				<li><a href="?controller=my-account">Login</a></li>
+				</ul>
+				</div>
+			]]>
+		</description>
+	</block_language>
+
+	<block_language>
+		<id_posstaticblock>13</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Footer Static Center Col4</title>
+		<description>
+			 <![CDATA[
+				
+			]]>
+		</description>
+	</block_language>
+
+<!-- block shop configuration -->
+	<block_shop>
+		<id_posstaticblock>3</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>4</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>5</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>6</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>7</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>8</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>9</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>10</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>11</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>12</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+
+	<block_shop>
+		<id_posstaticblock>13</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+</pos_static_blocks>

@@ -1,0 +1,1 @@
+*ERROR* 	2017/05/26 - 14:14:54: Link to database cannot be established: No such file or directory at line 47 in file classes/db/DbMySQLi.php

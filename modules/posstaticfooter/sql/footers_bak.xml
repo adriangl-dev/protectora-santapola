@@ -1,0 +1,303 @@
+<pos_static_blocks>
+<!-- static block configuration -->
+	<block>
+		<id_posstaticblock>49</id_posstaticblock>
+		<identify>footer-link-col1</identify>
+		<hook_position>blockFooter3</hook_position>
+		<name_module></name_module>
+		<hook_module></hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+		<is_default>1</is_default>
+	</block>
+	<block>
+		<id_posstaticblock>50</id_posstaticblock>
+		<identify>footer-link-col2</identify>
+		<hook_position>blockFooter3</hook_position>
+		<name_module>blockmyaccountfooter</name_module>
+		<hook_module>displayFooter</hook_module>
+		<posorder>0</posorder>
+		<insert_module>1</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+		<is_default>1</is_default>
+	</block>
+	<block>
+		<id_posstaticblock>51</id_posstaticblock>
+		<identify>footer-link-col3</identify>
+		<hook_position>blockFooter3</hook_position>
+		<name_module>blockcms</name_module>
+		<hook_module>displayFooter</hook_module>
+		<posorder>0</posorder>
+		<insert_module>1</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+		<is_default>1</is_default>
+	</block>
+	<block>
+		<id_posstaticblock>52</id_posstaticblock>
+		<identify>footer-link-col4</identify>
+		<hook_position>blockFooter3</hook_position>
+		<name_module></name_module>
+		<hook_module></hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+		<is_default>1</is_default>
+	</block>
+	<block>
+		<id_posstaticblock>53</id_posstaticblock>
+		<identify>copyright</identify>
+		<hook_position>blockFooter4</hook_position>
+		<name_module></name_module>
+		<hook_module></hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+		<is_default>1</is_default>
+	</block>
+	<block>
+		<id_posstaticblock>54</id_posstaticblock>
+		<identify>payment</identify>
+		<hook_position>blockFooter4</hook_position>
+		<name_module></name_module>
+		<hook_module></hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+		<is_default>1</is_default>
+	</block>
+<!-- block language configuration -->	
+	<block_language>
+		<id_posstaticblock>49</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Footer Link Col 1</title>
+		<description>
+			 <![CDATA[
+				<div class="footer-block f-col col-sm-3 col-md-3 col-sms-6 col-smb-12">
+<div class="footer-static-title">
+<h4>about us</h4>
+</div>
+<div class="footer-static-content block_content toggle-footer">
+<p class="info">At vero eos et accusamus et iusto odio dignissimos ducimus qui blan-ditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias...</p>
+<a class="logo" href="#"><img src="/pos_sahara_fashion1/img/cms/logo-bottom.png" alt="" /></a></div>
+</div>
+				]]>
+		</description>
+	</block_language>
+
+	<block_language>
+		<id_posstaticblock>50</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Footer Link Col 2</title>
+		<description>
+			 <![CDATA[
+				
+				]]>
+		</description>
+	</block_language>
+	<block_language>
+		<id_posstaticblock>51</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Footer Link Col 3</title>
+		<description>
+			 <![CDATA[
+				
+				]]>
+		</description>
+	</block_language>
+	<block_language>
+		<id_posstaticblock>52</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Footer Link Col 4</title>
+		<description>
+			 <![CDATA[
+				<div class="f-col footer-block f-col4 col-sm-3 col-md-3 col-sms-6">
+<div class="footer-static-title">
+<h4>OUR SERVICE</h4>
+</div>
+<div class="footer-static-content toggle-footer">
+<ul>
+<li class="first"><a href="#">About us</a></li>
+<li><a href="#">Delivery Information</a></li>
+<li><a href="#">Privacy Policy</a></li>
+<li><a href="#">Discount</a></li>
+<li><a href="#">Custom Service</a></li>
+</ul>
+</div>
+</div>
+				]]>
+		</description>
+	</block_language>
+	<block_language>
+		<id_posstaticblock>53</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Copyright</title>
+		<description>
+			 <![CDATA[
+				<div class="col-xs-12 col-sm-6">
+<ul class="links">
+<li class="first"><a title="Site Map" href="#/">Site Map</a></li>
+<li><a title="Search Terms" href="#">Search Terms</a></li>
+<li><a title="Advanced Search" href="#">Advanced Search</a></li>
+<li><a title="Orders and Returns" href="#">Orders and Returns</a></li>
+<li class=" last"><a title="Contact Us" href="#">Contact Us</a></li>
+</ul>
+<address>Copyright 2014 - <a href="#">Posthemes.com</a>. All rights reserved.</address></div>
+				]]>
+		</description>
+	</block_language>
+	<block_language>
+		<id_posstaticblock>54</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Payment</title>
+		<description>
+			 <![CDATA[
+				<div class="col-xs-12 col-sm-6">
+<div class="payment-bottom">
+<ul>
+<li><a href="#"><img src="/pos_sahara_fashion1/img/cms/social1.png" alt="" /></a></li>
+<li><a href="#"><img src="/pos_sahara_fashion1/img/cms/social2.png" alt="" /></a></li>
+<li><a href="#"><img src="/pos_sahara_fashion1/img/cms/social3.png" alt="" /></a></li>
+<li><a href="#"><img src="/pos_sahara_fashion1/img/cms/social4.png" alt="" /></a></li>
+<li><a href="#"><img src="/pos_sahara_fashion1/img/cms/social5.png" alt="" /></a></li>
+<li><a href="#"><img src="/pos_sahara_fashion1/img/cms/social6.png" alt="" /></a></li>
+</ul>
+</div>
+</div>
+				]]>
+		</description>
+	</block_language>
+
+	<!-- language 2 --> 
+<block_language>
+		<id_posstaticblock>49</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Footer Link Col 1</title>
+		<description>
+			 <![CDATA[
+				<div class="footer-block f-col col-sm-3 col-md-3 col-sms-6 col-smb-12">
+<div class="footer-static-title">
+<h4>about us</h4>
+</div>
+<div class="footer-static-content block_content toggle-footer">
+<p class="info">At vero eos et accusamus et iusto odio dignissimos ducimus qui blan-ditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias...</p>
+<a class="logo" href="#"><img src="/pos_sahara_fashion1/img/cms/logo-bottom.png" alt="" /></a></div>
+</div>
+				]]>
+		</description>
+	</block_language>
+
+	<block_language>
+		<id_posstaticblock>50</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Footer Link Col 2</title>
+		<description>
+			 <![CDATA[
+				
+				]]>
+		</description>
+	</block_language>
+	<block_language>
+		<id_posstaticblock>51</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Footer Link Col 3</title>
+		<description>
+			 <![CDATA[
+				
+				]]>
+		</description>
+	</block_language>
+	<block_language>
+		<id_posstaticblock>52</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Footer Link Col 4</title>
+		<description>
+			 <![CDATA[
+				<div class="f-col footer-block f-col4 col-sm-3 col-md-3 col-sms-6">
+<div class="footer-static-title">
+<h4>OUR SERVICE</h4>
+</div>
+<div class="footer-static-content toggle-footer">
+<ul>
+<li class="first"><a href="#">About us</a></li>
+<li><a href="#">Delivery Information</a></li>
+<li><a href="#">Privacy Policy</a></li>
+<li><a href="#">Discount</a></li>
+<li><a href="#">Custom Service</a></li>
+</ul>
+</div>
+</div>
+				]]>
+		</description>
+	</block_language>
+	<block_language>
+		<id_posstaticblock>53</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Copyright</title>
+		<description>
+			 <![CDATA[
+				<div class="col-xs-12 col-sm-6">
+<ul class="links">
+<li class="first"><a title="Site Map" href="#/">Site Map</a></li>
+<li><a title="Search Terms" href="#">Search Terms</a></li>
+<li><a title="Advanced Search" href="#">Advanced Search</a></li>
+<li><a title="Orders and Returns" href="#">Orders and Returns</a></li>
+<li class=" last"><a title="Contact Us" href="#">Contact Us</a></li>
+</ul>
+<address>Copyright 2014 - <a href="#">Posthemes.com</a>. All rights reserved.</address></div>
+				]]>
+		</description>
+	</block_language>
+	<block_language>
+		<id_posstaticblock>54</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Payment</title>
+		<description>
+			 <![CDATA[
+				<div class="col-xs-12 col-sm-6">
+<div class="payment-bottom">
+<ul>
+<li><a href="#"><img src="/pos_sahara_fashion1/img/cms/social1.png" alt="" /></a></li>
+<li><a href="#"><img src="/pos_sahara_fashion1/img/cms/social2.png" alt="" /></a></li>
+<li><a href="#"><img src="/pos_sahara_fashion1/img/cms/social3.png" alt="" /></a></li>
+<li><a href="#"><img src="/pos_sahara_fashion1/img/cms/social4.png" alt="" /></a></li>
+<li><a href="#"><img src="/pos_sahara_fashion1/img/cms/social5.png" alt="" /></a></li>
+<li><a href="#"><img src="/pos_sahara_fashion1/img/cms/social6.png" alt="" /></a></li>
+</ul>
+</div>
+</div>
+				]]>
+		</description>
+	</block_language>	
+<!-- block shop configuration -->
+	<block_shop>
+		<id_posstaticblock>49</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>50</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>51</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>52</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>53</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>54</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+</pos_static_blocks>

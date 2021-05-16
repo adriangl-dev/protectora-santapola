@@ -1,0 +1,198 @@
+ul.list_view {
+	list-style-type: none
+}
+	.list_view li {
+		margin-bottom: 14px;
+		padding: 12px 8px;
+		border-bottom: 1px solid #d9dbd3;
+		-moz-border-radius: 3px;
+		-webkit-border-radius: 3px;
+		border-radius: 3px
+	}
+.list_view li.last_item{
+	border: none;
+}
+.list_view li a {
+	color: #374853;
+	text-decoration: none
+}
+
+.list_view li .left_block {
+
+}
+.list_view li p.compare { padding: 10px 0;}
+	.list_view li .compare label {display: inline;}
+		
+		.list_view li p.compare input {
+			vertical-align: text-bottom;
+			float: left; margin-right: 5px;
+		}
+
+.list_view li .center_block {
+}
+	.list_view a.product_img_link {
+		overflow:hidden;
+		position:relative;
+		display:block;
+		margin-right: 14px;
+	}
+		.list_view a.product_img_link img {
+			display: block;
+			vertical-align: bottom;
+			width: 100%;
+		}
+	.list_view li h3 {
+		padding:0 0 10px 0;
+		font-size:13px;
+		color:#3c3c3c;
+	}
+	.list_view li h3 a{
+		font-size: 16px;
+		font-family:'MyriadPro-Regular';
+	}
+
+		.list_view li a {
+			color: #3c3c3c;
+			text-decoration: none;
+		}
+
+	.list_view li p.product_desc {
+		overflow: hidden;
+		padding:0;
+		line-height:16px;
+	}
+	.list_view li p.product_desc,
+	.list_view li p.product_desc a {
+		color:#666;
+	}
+
+.list_view li .right_block {
+	position:relative;
+   float: left;
+   width: 145px;
+   text-align: right
+}
+	.list_view li .discount, ul.list_view li .on_sale, ul.list_view li .online_only {
+		display: block;
+		font-weight: bold;
+		color: #990000;
+		text-transform: uppercase
+	}
+	.list_view li .discount {
+		position:absolute;
+		top:0;
+		right:0;
+		display: inline-block;
+		font-weight: bold;
+		padding: 1px 5px;
+		font-size: 10px;
+		color: #fff;
+		text-transform: uppercase;
+		background: none repeat scroll 0 0 #9B0000
+	}
+	.list_view li .online_only {
+		margin:0 0 10px 0
+	}
+	.list_view li .content_price {
+		margin:10px 0;
+	}
+	.list_view li .price {
+		display: block;
+		margin-bottom: 15px;
+		font-weight:bold;
+		font-size: 18px;
+	}
+	#product_list li span.availability,
+	#product_list li .online_only{
+			display: none;
+	}
+	.list_view li .ajax_add_to_cart_button {
+		padding:0;
+	}
+	.list_view li .ajax_add_to_cart_button:hover > span{
+		background-color: #474747;
+	}
+	.list_view li .ajax_add_to_cart_button > span {
+		padding: 0 0 0 37px;
+		height: 37px;
+		line-height: 37px;
+		display: block;
+	}
+.list_view li .ajax_add_to_cart_button span span{
+	height: 35px;
+	line-height: 35px;
+	background: #ececec;
+	padding: 0 10px;
+	color: #363636;
+	text-transform: uppercase;
+	border: 1px solid #cecece;
+	display: block;
+	border-left: none;
+}
+	
+	.list_view li .lnk_view {
+		display: block;
+		margin-top:15px;
+		padding:0 10px;
+		border:none;
+		font-weight:bold;
+		color:#0088CC;
+		background:url(../img/arrow_right_1.png) no-repeat 100% 4px transparent
+	}
+	.list_view li .lnk_view:hover {text-decoration:underline}
+
+/*===================Grid View ==================*/
+.product-grid li { margin-top: 20px;}
+.grid_view li { position: relative;}
+.grid_view li .compare { position: absolute; top: 15px; left: 10%; margin-left: -3px;}
+.grid_view li .compare label { display: none;}
+.grid_view li img { width: 100%;}
+.grid_view li .content_price { padding-bottom: 10px;}
+
+
+/*===================Mode View ==================*/
+
+.mode-view { float: left; margin-top: 7px; margin-right: 20px;}
+#view_as .products_left_grid_button { display: inline-block;}
+#view_as .products_left_grid_button{
+	float: left;
+	height: 54px;
+	width: 54px
+}
+#view_as .products_grid_button_id{
+	width: 54px;
+	height: 54px;
+	float: left;
+	text-indent: -9999px;
+	background: url(../img/grid.png) no-repeat;
+}
+
+#view_as .products_left_grid_button.active .products_grid_button_id,
+#view_as .products_left_grid_button .products_grid_button_id:hover {
+	width: 54px;
+	height: 54px;
+	float: left;
+	text-indent: -9999px;
+	cursor: pointer; 
+}
+
+#view_as .products_right_grid_button { float: left;height: 54px;width: 54px;}
+#view_as .products_right_grid_button .products_list_button_id {
+	width: 54px;
+	height: 54px;
+	float: left;
+	text-indent: -9999px;
+	background: url(../img/list.png) no-repeat;
+	border: 0;
+	border-radius: 0;
+	padding: 0;
+}
+#view_as .products_right_grid_button.active .products_list_button_id,
+#view_as .products_right_grid_button .products_list_button_id:hover {
+	width: 54px;
+	height: 54px;
+	float: left;
+	text-indent: -9999px;
+	cursor: pointer;
+ }
+ 

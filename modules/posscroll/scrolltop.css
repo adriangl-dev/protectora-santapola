@@ -1,0 +1,13 @@
+.mypresta_scrollup{
+    width:40px;
+    height:40px;
+    position:fixed;
+    display:none;
+    text-indent:-9999px;
+	right:20px;
+	bottom:20px;
+	background:url(icon_top.png) no-repeat;
+	border: 1px solid #ddd;
+	border-radius: 40px;
+}
+.mypresta_scrollup:hover { border: 1px solid #1BA1E2;}

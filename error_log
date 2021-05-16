@@ -1,0 +1,8 @@
+[06-Jan-2016 14:42:19 Europe/Madrid] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/virgy/public_html/modules/virgyfeatureproduct/virgyfeatureproduct.tpl"  on line 20 "<div>{var_dump | $product}</div>"  - Unexpected "|" <-- 
+  thrown in /home/virgy/public_html/tools/smarty/sysplugins/smarty_internal_templatecompilerbase.php on line 20
+[06-Jan-2016 14:43:44 Europe/Madrid] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/virgy/public_html/modules/virgyfeatureproduct/virgyfeatureproduct.tpl"  on line 20 "<div>{{$product|var_dump}</div>"  - Unexpected "/" <-- 
+  thrown in /home/virgy/public_html/tools/smarty/sysplugins/smarty_internal_templatecompilerbase.php on line 20
+[06-Jan-2016 14:43:51 Europe/Madrid] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "/home/virgy/public_html/modules/virgyfeatureproduct/virgyfeatureproduct.tpl"  on line 20 "<div>{{$product|var_dump}</div>"  - Unexpected "/" <-- 
+  thrown in /home/virgy/public_html/tools/smarty/sysplugins/smarty_internal_templatecompilerbase.php on line 20
+[26-Jun-2016 03:44:13 UTC] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/virgy/public_html/cache/smarty/compile/c8/00/06/wrt576f4f8db61826_49337756 <-- 
+  thrown in /home/virgy/public_html/tools/smarty/sysplugins/smarty_internal_write_file.php on line 46
